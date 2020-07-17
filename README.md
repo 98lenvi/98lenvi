@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**98lenvi/98lenvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://win98icons.alexmeub.com/icons/png/computer_explorer_cool-0.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/directory_closed-4.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/internet_connection_wiz-4.png"/>
+<br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src="https://raw.githubusercontent.com/98lenvi/98lenvi/master/aloha.jpg">
+<br>
+<br>
+<br>
+<img align='right' src="https://win98icons.alexmeub.com/icons/png/recycle_bin_full_cool-0.png">
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/98lenvi/98lenvi/master/taskabr.png">
