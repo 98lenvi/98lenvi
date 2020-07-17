@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src="https://raw.githubusercontent.com/98lenvi/98lenvi/master/aloha.jpg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img  src="https://raw.githubusercontent.com/98lenvi/98lenvi/master/aloha.jpg" width='750'>
 <br>
 <br>
 <br>
