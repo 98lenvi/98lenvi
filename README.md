@@ -1,5 +1,3 @@
-<img src="https://win98icons.alexmeub.com/icons/png/computer_explorer_cool-0.png" width='36'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/directory_closed-4.png" width='36'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://win98icons.alexmeub.com/icons/png/internet_connection_wiz-4.png" width='36'/>
-<br>
 ## About me
  - [My Website](https://www.lenvingonsalves.me/) contains everything you'll need to know about me
  - I write on tech, check it out [here at Dev.to](https://dev.to/98lenvi)
@@ -16,7 +14,3 @@
  - [How does JS work under the hood](https://github.com/fraxken/VM-Resources). Excelent compilation of resources on Javascript.
  - [Learning React: Functional Web Development with React and Redux](https://www.amazon.com/Learning-React-Functional-Development-Redux/dp/1491954620). This is the book (along with react docs) I used to learn react.
  - [Learning Node: Moving to the Server-Side](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122). I plan to read this book for Node.js
-<br>
-<img align='right' src="https://win98icons.alexmeub.com/icons/png/recycle_bin_full_cool-0.png" width='36'>
-<br>
-<img src="https://raw.githubusercontent.com/98lenvi/98lenvi/master/taskabr.png">
