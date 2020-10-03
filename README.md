@@ -10,7 +10,7 @@
  - [Clean Code by Uncle Bob](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf). This is important of you want to write code that is mantainable, and also if you want a team to work on the project.
  - [CSSReference.io](https://cssreference.io/). Really good resource for checking when & how to use CSS.
  - [JS Katas](https://jskatas.org/). I like this website for that reason that they are teaching about ES6 Generators (Which is overlooked in a LOT of places)
- - [Gatsby Docs](https://www.gatsbyjs.org/docs/). Gatsby is the cherry on the icing for React.
+ - [Gatsby Docs](https://www.gatsbyjs.org/docs/). Gatsby is the icing on the cake for React.
  - [How does JS work under the hood](https://github.com/fraxken/VM-Resources). Excelent compilation of resources on Javascript.
  - [Learning React: Functional Web Development with React and Redux](https://www.amazon.com/Learning-React-Functional-Development-Redux/dp/1491954620). This is the book (along with react docs) I used to learn react.
  - [Learning Node: Moving to the Server-Side](https://www.amazon.com/Learning-Node-Server-Side-Shelley-Powers/dp/1491943122). I plan to read this book for Node.js
